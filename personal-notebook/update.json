@@ -2,6 +2,10 @@
   "version": "0.1.1",
   "notes": "- 修复若干问题\n- 改进",
   "pub_date": "2026-03-20T12:00:00Z",
-  "signature": "https://hz-pre.github.io/lxf-pub/personal-notebook/sig.base64.txt",
-  "url": "https://hz-pre.github.io/lxf-pub/personal-notebook/personal-notebook-0.1.0-windows.exe"
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5cXpYNHNDa2RpK3F6TFBwUERubjNzY0N1aFUvOVRtZ0VFaktMb3BReFgxb0FBQkFBQUFBQUFBQUFBQUlBQUFBQVpKNE9pZGxMTVFrK0lTM1lmRW9MdncwdXlRZmNQdzFmMUpBam9UQmhmYVR3amUyWmpwNmc1WHZKYjFGcHJIbHptQnFaL2xUUXVDQXdjUUM2SG93ZzlURHRLd3lKV05wT2xnbllaWnJGZzFoRnk2dzROR2hYZEo2cHJSdHMyWjJGN3Jpb2JHR0NFOU09Cg==",
+      "url": "https://hz-pre.github.io/lxf-pub/personal-notebook/personal-notebook-0.1.0-windows.exe"
+    }
+  }
 }
