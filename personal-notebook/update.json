@@ -2,6 +2,10 @@
   "version": "0.1.1",
   "notes": "- 修复若干问题\n- 改进",
   "pub_date": "2026-03-20T12:00:00Z",
-  "url": "https://hz-pre.github.io/lxf-pub/personal-notebook/personal-notebook-0.1.1-windows.exe",
-  "signature": "cFw41qcUGJvBxqDsNv5kR7sSQ5rklYpPcOxoHps/goHKP71sJCz6RFlqFGhajFSuXlyjo8XQBeDoHyLMb974Dg=="
+  "platforms": {
+    "windows": {
+      "url": "https://hz-pre.github.io/lxf-pub/personal-notebook/personal-notebook-0.1.1-windows.exe",
+      "signature": "cFw41qcUGJvBxqDsNv5kR7sSQ5rklYpPcOxoHps/goHKP71sJCz6RFlqFGhajFSuXlyjo8XQBeDoHyLMb974Dg=="
+    }
+  }
 }
