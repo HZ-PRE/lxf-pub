@@ -2,6 +2,6 @@
   "version": "0.1.1",
   "notes": "- 修复若干问题\n- 改进",
   "pub_date": "2026-03-20T12:00:00Z",
-  "signature": "https://hz-pre.github.io/lxf-pub/personal-notebook/personal-notebook-0.1.1-windows.exe.sig",
-  "url": "https://hz-pre.github.io/lxf-pub/personal-notebook/personal-notebook-0.1.1-windows.exe"
+  "signature": "http://127.0.0.1:8848/testH5/json/personal-notebook-0.1.1-windows.exe.sig",
+  "url": "http://127.0.0.1:8848/testH5/json/personal-notebook-0.1.1-windows.exe"
 }
