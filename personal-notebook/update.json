@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYWpzdmkxajhyYVlsczRKWWlYQWhDWFZ1ZXpmMWhPU2drcTdNSmkrTzZ1VlpRcmc1N0h0OVB0cFZJOEh4MTN0MUhBM0JuYndVcEtoRHBRVklxeDZYUHlybzBEQi8zandJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4MDcxCWZpbGU65bGA5Z+f5Lyg6L6TXzAuMS4xX3g2NC1zZXR1cC5uc2lzLnppcAo4Z0swMTk5RlkvMjVOc2FJUnFPdy95Y0psbUszckFUdmRRd0tqV3N6S2VQK3lQYU8zWThhR2xUZncvbkJ4YTlGa2orTWdldHYvblB0TUxWWVpoUi9CQT09Cg==",
-      "url": "https://pubtofilegz.oss-rg-china-mainland.aliyuncs.com/install/局域传输_0.1.1_x64-setup.exe"
+      "url": "https://pubtofilegz.oss-rg-china-mainland.aliyuncs.com/install/局域传输_0.1.1_x64-setup.nsis.zip"
     }
   }
 }
