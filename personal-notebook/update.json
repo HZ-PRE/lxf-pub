@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "- 修复若干问题\n- 改进",
-  "pub_date": "2026-03-20T12:00:00Z",
+  "version": "0.1.1",
+  "notes": "局域网传输性能优化",
+  "pub_date": "2026-11-16T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYWpzdmkxajhyYVhYR3FLOHR6WkJGeTg5bm13VVFOU0Z1R2dVZnF5ZHZEakI4Rm1sdzFoZTdOS2V6Q1ovNHhRVFNxUUs5b2JXRkM3YnRyNitPd2NNNHBDelM3elpnUkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzIwODk1CWZpbGU66aaL54aK5YawXzAuMS4xX3g2NC1zZXR1cC5leGUKNnh5Q1ZzVlU3WDNMQkZQa0t1WWZ3RFN2cktRekRYSDJqd1NSUjBxRTZrV2NTZEtHcW0ybS9zSWhrTHBIdkEvNXBXYXZkTHpueXJTRDNsSGc5QkM5REE9PQo=",
-      "url": "https://hz-pre.github.io/lxf-pub/personal-notebook/馋熊冰_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYWpzdmkxajhyYVlsczRKWWlYQWhDWFZ1ZXpmMWhPU2drcTdNSmkrTzZ1VlpRcmc1N0h0OVB0cFZJOEh4MTN0MUhBM0JuYndVcEtoRHBRVklxeDZYUHlybzBEQi8zandJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk4MDcxCWZpbGU65bGA5Z+f5Lyg6L6TXzAuMS4xX3g2NC1zZXR1cC5uc2lzLnppcAo4Z0swMTk5RlkvMjVOc2FJUnFPdy95Y0psbUszckFUdmRRd0tqV3N6S2VQK3lQYU8zWThhR2xUZncvbkJ4YTlGa2orTWdldHYvblB0TUxWWVpoUi9CQT09Cg==",
+      "url": "https://pubtofilegz.oss-rg-china-mainland.aliyuncs.com/install/局域传输_0.1.1_x64-setup.exe"
     }
   }
 }
